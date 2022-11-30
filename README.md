@@ -1,5 +1,3 @@
-# Digi School Fyp 19-cs-28 && 19-cs-11 
-This contains only frontend for school management its full functionality with app version for parents and backend development and api integration in other repositories
 
 # Getting Started with Create React App
 
